@@ -1,0 +1,29 @@
+*
+{
+	border: 1px #000000
+}
+:root
+body {
+	background-color: #290E50
+}
+header{
+	 color: whitesmoke;
+	 text-align: center;
+	 font-family:fantasy
+}
+main {
+	color: whitesmoke;
+	text-align: center
+}
+h1 {
+	color: whitesmoke;
+	text-align: center;
+	font-family: fantasy
+}
+h2, ul {
+	color:red; 
+	text-align:center; 
+	font-family: fantasy
+footer {
+	color: whitesmoke
+}
