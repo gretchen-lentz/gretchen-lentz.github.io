@@ -1,0 +1,13 @@
+body {background-color: powderblue}
+body {font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+body {font-size: 0.875em}
+head {font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+head {font-size: 2.5em; text-align: center}
+body {color: white}
+li {color: black}
+h1 { font:Constantia,"Georgia"; text-align: center; font-size: 36pt}
+h3 { font:Constantia,"Georgia"; text-align: left; font-size: 24pt}
+p {font: Baskerville,"Times New Roman", "serif"; text-align: center; color: black; margin:5px 5px 5px; font-size: 24pt}
+h2 { font:Constantia,"Georgia"; text-align: center; font-size: 26pt}
+ul {font:Constantia,"Georgia"; text-align:left; font-size: 20pt}
+li {font:Constantia,"Georgia"; text-align:left; font-size: 20pt
